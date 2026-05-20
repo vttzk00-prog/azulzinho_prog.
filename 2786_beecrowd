@@ -1,0 +1,15 @@
+#include <stdio.h>
+ 
+int main() {
+ 
+int l,c,int,int2; 
+    
+    scanf("%d\n%d",&lar,&comp); 
+    
+    int = (l*c) + ((l-1)*(c-1));  
+    int2 = (((l-1)*2) + ((c-1)*2)); 
+
+    printf("%d\n%d\n",int,int2);
+    
+    return 0;
+}
